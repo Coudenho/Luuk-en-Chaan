@@ -1,4 +1,4 @@
-.navbar {
+ul{
     list-style-type: none;
     padding: 0px;
     margin: 0px;
@@ -8,13 +8,15 @@
 
 
 }
-.navbar-items {
+li a {
     float: left;
     display: block;
     color: white;
     padding: 10px 15px;
     text-align: center;
     text-decoration: none;
+    border-right: 1px solid block;
+    min-width:60px;
 
 }
 li a:hover{
