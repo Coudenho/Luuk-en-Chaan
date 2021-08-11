@@ -1,0 +1,19 @@
+#navbar {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #444444;
+
+
+
+}
+#navbar-items {
+    float: left;
+    display: block;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
